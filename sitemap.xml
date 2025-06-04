@@ -1,49 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- トップページ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://oita40match.github.io/</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://komeet.jp/</loc>
     <priority>1.0</priority>
+    <lastmod>2025-05-24</lastmod>
   </url>
-
-  <!-- 各セクション -->
   <url>
-    <loc>https://oita40match.github.io/#mokuji</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#hajimeni</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#recommend-apps</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#anzen-app</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#osusume-spot</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#FAQ</loc>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#matome</loc>
+    <loc>https://komeet.jp/appfeatures.html</loc>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://komeet.jp/plan.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://komeet.jp/support.html</loc>
+    <priority>0.5</priority>
+  </url>
+    <url>
+    <loc>https://komeet.jp/links/privacypolicy.html</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://komeet.jp/links/tokushoho.html</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://komeet.jp/links/guidelines.html</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://komeet.jp/links/termsofservice.html</loc>
+    <priority>0.3</priority>
   </url>
 
 </urlset>
