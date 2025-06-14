@@ -8,39 +8,4 @@
     <priority>1.0</priority>
   </url>
 
-  <url>
-    <loc>https://oita40match.github.io/#mokuji</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#hajimeni</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#recommend-apps</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#anzen-app</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#osusume-spot</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#FAQ</loc>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://oita40match.github.io/#matome</loc>
-    <priority>0.5</priority>
-  </url>
-
 </urlset>
