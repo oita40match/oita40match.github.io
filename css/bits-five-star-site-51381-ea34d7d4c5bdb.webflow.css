@@ -243,7 +243,7 @@ figcaption {
   border-bottom: 1px solid #ddd;
   padding-top: 70px;
   padding-bottom: 40px;
-  position: relative;
+  position: static;
 }
 
 .social-button {
@@ -1268,10 +1268,18 @@ figcaption {
   .nav-link {
     margin-top: 4px;
     margin-bottom: 4px;
+    margin-left: 10px;
+  }
+
+  .nav-link.w--current {
+    font-size: 14px;
   }
 
   .nav-link.float-right {
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left: 20px;
+    font-size: 14px;
   }
 
   .nav-link.float-right.w--current {
@@ -1282,9 +1290,20 @@ figcaption {
     padding-bottom: 0;
   }
 
-  .post-content, .post-summary {
+  .post-content {
     margin-bottom: 10px;
-    font-size: 12px;
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 180%;
+  }
+
+  .post-summary {
+    margin-bottom: 10px;
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 200%;
   }
 
   .social-link-group {
@@ -1295,7 +1314,7 @@ figcaption {
   }
 
   .blog-title {
-    font-size: 20px;
+    font-size: 24px;
     line-height: 32px;
   }
 
@@ -1307,7 +1326,7 @@ figcaption {
     color: var(--dark-slate-gray-3);
     margin-top: 40px;
     margin-right: 10px;
-    font-size: 10px;
+    font-size: 14px;
   }
 
   .footer {
@@ -1332,9 +1351,13 @@ figcaption {
     padding-top: 0;
   }
 
+  .bold-text {
+    font-size: 16px;
+  }
+
   .list {
     font-family: Open Sans, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 160%;
   }
 
@@ -1354,13 +1377,17 @@ figcaption {
     line-height: 24px;
   }
 
+  .image-3 {
+    width: 50vw;
+  }
+
   .heading {
-    font-size: 20px;
+    font-size: 24px;
   }
 
   .code-embed {
     width: 100%;
-    font-size: 12px;
+    font-size: 14px;
     overflow: hidden;
   }
 
@@ -1380,7 +1407,7 @@ figcaption {
     margin-top: 0;
     margin-left: 0;
     margin-right: 10px;
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .bold-text-10, .bold-text-11, .heading-5, .bold-text-12, .heading-6 {
@@ -1400,11 +1427,12 @@ figcaption {
   }
 
   .h4-heading {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .paragraph {
-    font-size: 10px;
+    font-size: 12px;
+    font-weight: 400;
   }
 
   .link-block {
